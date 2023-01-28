@@ -1,20 +1,31 @@
+<h1 align="center">Hi 😀, I'm Bryan</h1>
+
+<p align="center"> <img src="https://media.istockphoto.com/id/1185648198/es/vector/banner-de-programaci%C3%B3n-codificaci%C3%B3n-mejores-lenguajes-de-programaci%C3%B3n-concepto-de.jpg?s=170667a&w=0&k=20&c=7weLeiYDushL4buLFesU6P02CkBDpB07XkZUL8_nMxA=" alt="21edclique" /> </p>
+
 ## Table of Contents
-1. [General Info](#general-info)
+1. [About me](#about-me)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-### General Info
+### About me
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Hello 😀, I'm Bryan.
-![Image text](https://media.istockphoto.com/id/1185648198/es/vector/banner-de-programaci%C3%B3n-codificaci%C3%B3n-mejores-lenguajes-de-programaci%C3%B3n-concepto-de.jpg?s=170667a&w=0&k=20&c=7weLeiYDushL4buLFesU6P02CkBDpB07XkZUL8_nMxA=)
-## Technologies
+
+- 🔭 I am  studying at *Universidad Técnica De Ambato*
+
+- 📫 How to reach me *arielnavas05@gmail.com*
+
+- 🌱 I’m currently learning *Js*
+
+## Programming Languages
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
 ## Installation
 ***
 A little intro about the installation. 
