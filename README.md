@@ -7,8 +7,8 @@
 ### General Info
 ***
 Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://img.freepik.com/vector-premium/banner-estilo-codificacion-programacion-concepto-desarrollo-aplicaciones_285336-333.jpg?w=2000)
+### Hello 😀, I'm Bryan.
+![Image text](https://media.istockphoto.com/id/1185648198/es/vector/banner-de-programaci%C3%B3n-codificaci%C3%B3n-mejores-lenguajes-de-programaci%C3%B3n-concepto-de.jpg?s=170667a&w=0&k=20&c=7weLeiYDushL4buLFesU6P02CkBDpB07XkZUL8_nMxA=)
 ## Technologies
 ***
 A list of technologies used within the project:
