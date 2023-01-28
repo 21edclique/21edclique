@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Bryan</h1>
 <h3 align="center">A passionate developer from Ecuador</h3>
 <iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
-<img align="center" alt="Coding" widht="400" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gi](https://twitter.com/ariel)f">
+<img align="center" alt="Coding" widht="400" src="https://previews.123rf.com/images/samui88/samui881502/samui88150200015/36655744-programador-y-proceso-de-codificaci%C3%B3n-y-programaci%C3%B3n-concepto-de-ilustraci%C3%B3n-vectorial.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1hawk77&label=Profile%20views&color=0e75b6&style=flat" alt="21edclique" /> </p>
 
