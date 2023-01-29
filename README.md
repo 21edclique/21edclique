@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-<p align="right"> <img src="https://media.istockphoto.com/id/1185648198/es/vector/banner-de-programaci%C3%B3n-codificaci%C3%B3n-mejores-lenguajes-de-programaci%C3%B3n-concepto-de.jpg?s=170667a&w=0&k=20&c=7weLeiYDushL4buLFesU6P02CkBDpB07XkZUL8_nMxA=" alt="21edclique" /> </p>
-
 1. [About me](#about-me)
 2. [Learning](#learning)
 3. [Social Media](#social-media)
@@ -16,7 +14,7 @@
 ### About me
 ***
 
-- 🔭 I am  studying at *Universidad Técnica De Ambato*
+- 🔭 I'm  studying at *Universidad Técnica De Ambato*
 
 - 📫 How to reach me *bryanjinez200027@gmail.com*
 
@@ -43,7 +41,7 @@
 ## Statistics
 ***
 <p align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21edclique&" alt="21edclique" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21edclique&show_icons=true&locale=en" alt="21edclique" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=21edclique&show_icons=true&locale=en&layout=compact" alt="21edclique" /></p>
+
 </p>
