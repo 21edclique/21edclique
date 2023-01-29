@@ -1,10 +1,11 @@
  <h1 align="center">Hi 😀, I'm Bryan</h1>
-<p align="right"> <img src="https://eant.tech/data_cursos_carreras/carreras/21_data_analytics_python/curso-data-analytics-python.jpg" alt="21edclique" /> </p>
+<p align="right"> <img src="http://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg" alt="21edclique" /> </p>
 
 
  
 ### About me
 ***
+- 💛 I'm from Ecuador
 
 - 🔭 I'm  studying at *Universidad Técnica De Ambato*
 
