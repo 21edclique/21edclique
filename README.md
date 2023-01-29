@@ -2,15 +2,6 @@
 
 <h1 align="center">Hi 😀, I'm Bryan</h1>
 
-
-
-## Table of Contents
-
-1. [About me](#about-me)
-2. [Learning](#learning)
-3. [Social Media](#social-media)
-4. [Statistics](#statistics)
-5. 
 ### About me
 ***
 
@@ -40,8 +31,8 @@
 
 ## Statistics
 ***
-<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21edclique&show_icons=true&locale=en" alt="21edclique" /></p>
 
-</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21edclique&show_icons=true&locale=en" alt="21edclique" /></p>
+
+
