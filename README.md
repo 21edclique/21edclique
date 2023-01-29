@@ -6,8 +6,6 @@
 1. [About me](#about-me)
 2. [Learning](#learning)
 3. [Social Media](#social-media)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 ### About me
 ***
 
@@ -32,8 +30,8 @@
 ***
 <p align="left">
  <a href="https://twitter.com/ariel_n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariel_n7" height="30" width="40" /></a>
-<a href="https://instagram.com/alejandro.n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro.n7" height="30" width="40" /></a>
-  <a href="https://instagram.com/alejandro.n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alejandro.n7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bryan_mimi27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="21edclique.n7" height="30" width="40" /></a>
+    <a href="https://github.com/21edclique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="21edclique.n7" height="30" width="40" /></a>
 </p>
 
 
