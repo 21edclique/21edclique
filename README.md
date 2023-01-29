@@ -1,19 +1,25 @@
+<p align="center"> <img src="https://img.freepik.com/premium-vector/coding-system-banner_87720-2994.jpg?w=2000" alt="21edclique" /> </p>
+
 <h1 align="center">Hi 😀, I'm Bryan</h1>
 
-<p align="center"> <img src="https://media.istockphoto.com/id/1185648198/es/vector/banner-de-programaci%C3%B3n-codificaci%C3%B3n-mejores-lenguajes-de-programaci%C3%B3n-concepto-de.jpg?s=170667a&w=0&k=20&c=7weLeiYDushL4buLFesU6P02CkBDpB07XkZUL8_nMxA=" alt="21edclique" /> </p>
+
 
 ## Table of Contents
+
+<p align="right"> <img src="https://media.istockphoto.com/id/1185648198/es/vector/banner-de-programaci%C3%B3n-codificaci%C3%B3n-mejores-lenguajes-de-programaci%C3%B3n-concepto-de.jpg?s=170667a&w=0&k=20&c=7weLeiYDushL4buLFesU6P02CkBDpB07XkZUL8_nMxA=" alt="21edclique" /> </p>
+
 1. [About me](#about-me)
 2. [Learning](#learning)
 3. [Social Media](#social-media)
+4. [Statistics](#statistics)
+5. 
 ### About me
 ***
 
 - 🔭 I am  studying at *Universidad Técnica De Ambato*
 
-- 📫 How to reach me *arielnavas05@gmail.com*
+- 📫 How to reach me *bryanjinez200027@gmail.com*
 
-- 🌱 I’m currently learning *Js*
 
 ## Learning
 ***
@@ -29,17 +35,15 @@
 ## Social Media
 ***
 <p align="left">
- <a href="https://twitter.com/ariel_n7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariel_n7" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/bryan-jinez-857941139/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="21edclique_n7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bryan_mimi27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="21edclique.n7" height="30" width="40" /></a>
     <a href="https://github.com/21edclique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="21edclique.n7" height="30" width="40" /></a>
 </p>
 
-
-
-## Collaboration
+## Statistics
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-
+<p align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21edclique&" alt="21edclique" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21edclique&show_icons=true&locale=en" alt="21edclique" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=21edclique&show_icons=true&locale=en&layout=compact" alt="21edclique" /></p>
+</p>
