@@ -131,7 +131,11 @@ fun_fact: "I debug with console.log and I'm not ashamed! 😄"
   
   **⭐ Star my repositories if you find them interesting!**
   
-  ![Snake animation](https://github.com/bryanjinez/bryanjinez/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
   <sub>💡 *"The best code is not just functional, but elegant and maintainable"*</sub>
   
