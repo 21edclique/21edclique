@@ -28,7 +28,7 @@ const bryan = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanjinez&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21edclique&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
 ---
