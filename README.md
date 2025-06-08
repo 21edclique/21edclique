@@ -128,12 +128,11 @@ fun_fact: "I debug with console.log and I'm not ashamed! 😄"
 ---
 
 <div align="center">
-  
-  **⭐ Star my repositories if you find them interesting!**
-  
-https://github.com/<seu 21edclique>/<seu 21edclique>/blob/output/github-contribution-grid-snake2.svg
 
-  
-  <sub>💡 *"The best code is not just functional, but elegant and maintainable"*</sub>
-  
+  **⭐ Star my repositories if you find them interesting!**
+
+  ![GitHub contribution snake](https://github.com/seu21edclique/seu21edclique/blob/output/github-contribution-grid-snake2.svg)
+
+  <sub>💡 *"The best code is not just functional, but elegant and maintainable."</sub>
+
 </div>
