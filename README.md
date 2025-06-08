@@ -131,7 +131,7 @@ fun_fact: "I debug with console.log and I'm not ashamed! 😄"
   
   **⭐ Star my repositories if you find them interesting!**
   
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+https://github.com/<seu 21edclique>/<seu 21edclique>/blob/output/github-contribution-grid-snake2.svg
 
   
   <sub>💡 *"The best code is not just functional, but elegant and maintainable"*</sub>
