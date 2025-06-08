@@ -107,7 +107,7 @@ fun_fact: "I debug with console.log and I'm not ashamed! 😄"
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryanjinez&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=21edclique&theme=redical&hide_border=true" />
 </div>
 
 ---
