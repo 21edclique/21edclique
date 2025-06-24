@@ -125,21 +125,7 @@ fun_fact: "I debug with console.log and I'm not ashamed! 😄"
 
 </div>
 
----
 
-<div align="center">
-
-  **⭐ Star my repositories if you find them interesting!**
-
-  <br/>
-
-  ![GitHub Snake Light](https://raw.githubusercontent.com/21edclique/21edclique/output/dist/github-snake.svg#gh-light-mode-only)
-  ![GitHub Snake Dark](https://raw.githubusercontent.com/21edclique/21edclique/output/dist/github-snake-dark.svg#gh-dark-mode-only)
-  ![GitHub Snake GIF](https://raw.githubusercontent.com/21edclique/21edclique/output/dist/ocean.gif)
-
-  <sub>💡 *"The best code is not just functional, but elegant and maintainable."*</sub>
-
-</div>
 
 
 </div>
