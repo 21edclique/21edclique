@@ -84,10 +84,10 @@ const bryan = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🌟 **E-Commerce Platform** | Full-stack marketplace with payment integration | React, Node.js, MongoDB |
-| 📱 **Fitness Tracking App** | Cross-platform mobile app with real-time data | React Native, Firebase |
-| 🎨 **Portfolio Website** | Responsive design showcase | Angular, TypeScript, CSS3 |
-| 🤖 **AI Chat Bot** | Intelligent customer service solution | Python, NLP, REST APIs |
+| 🧏‍♂️ **Sign Language Recognition** | Real-time gesture recognition using deep learning | Python, TensorFlow, ResNet |
+| 🔐 **File Encryption Tool** | Secure file encryption and decryption app | Python, AES, Tkinter |
+| 💧 **Water Billing System** | Invoice and user management for rural water board | React, Node.js, MySQL |
+
 
 </div>
 
