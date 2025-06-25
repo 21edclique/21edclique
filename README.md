@@ -4,9 +4,8 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+%26+Web+Specialist;Ecuador+%F0%9F%87%AA%F0%9F%87%A8;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanjinez)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bryanjinez)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://bryanjinez.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bjinez )
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://my-portfolio-21edcliques-projects.vercel.app/portfolio)
   
   <img src="https://komarev.com/ghpvc/?username=bryanjinez&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
