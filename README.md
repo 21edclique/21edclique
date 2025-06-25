@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bjinez )
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://my-portfolio-21edcliques-projects.vercel.app)
-  [![CV](https://img.shields.io/badge/CV-%23000000.svg?logo=googledrive&logoColor=white)]([https://drive.google.com/your-cv-link](https://drive.google.com/file/d/1tj-ZhEdyP8a8yLWR5W5KpwXrwOSUiMgD/view))
+  [![CV](https://img.shields.io/badge/CV-%23000000.svg?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tj-ZhEdyP8a8yLWR5W5KpwXrwOSUiMgD/view?usp=sharing)
 
   
   <img src="https://komarev.com/ghpvc/?username=bryanjinez&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
