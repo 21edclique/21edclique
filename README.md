@@ -63,15 +63,16 @@ const bryan = {
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=bryanjinez&theme=radical&hide_border=false" />
+  <!-- Cambia la URL del streak -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bryanjinez&theme=radical&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21edclique&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <!-- Corrige también el username (tienes dos distintos: bryanjinez y 21edclique) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjinez&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
