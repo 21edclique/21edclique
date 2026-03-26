@@ -66,8 +66,7 @@ const bryan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Cambia la URL del streak -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bryanjinez&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=radical&show_icons=true" />
 </div>
 
 <div align="center">
