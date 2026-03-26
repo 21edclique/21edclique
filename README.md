@@ -69,10 +69,6 @@ const bryan = {
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=radical&show_icons=true" />
 </div>
 
-<div align="center">
-  <!-- Corrige también el username (tienes dos distintos: bryanjinez y 21edclique) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjinez&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
 
 ---
 
