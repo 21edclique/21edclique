@@ -63,10 +63,23 @@ const bryan = {
 </div>
 
 ---
-## 📊 GitHub Analytics
+<h2 align="left">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=bryanjinez&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=bryanjinez&theme=radical&show_icons=true&count_private=true&hide_border=true" width="100%" alt="Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjinez&theme=radical&layout=compact&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.vercel.app/?user=bryanjinez&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 <br />
