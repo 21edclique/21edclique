@@ -66,11 +66,11 @@ const bryan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bryanjinez&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=21edclique&theme=radical&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjinez&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21edclique&theme=radical&hide_border=false&layout=compact" />
 </div>
 
 ## 🏆 Featured Projects
