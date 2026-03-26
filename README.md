@@ -63,18 +63,14 @@ const bryan = {
 </div>
 
 ---
-<h2 align="left">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21edclique&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=bryanjinez&theme=radical&hide_border=false" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21edclique&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.vercel.app/?user=21edclique&theme=radical" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjinez&theme=radical&hide_border=false&layout=compact" />
 </div>
 
 ## 🏆 Featured Projects
